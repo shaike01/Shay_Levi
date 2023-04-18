@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+h1{
+    
+    font-size: 28px;
+    color: rgb(53, 11, 11);
+}
+
+#f{
+    display: flex;
+    justify-content: center;
+}
+
+.classB{
+   display: block;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: rgb(123, 63, 63);
+   margin: 3px;
+   padding: 5px;
+
+}
+
+
+#form_head{
+    color: rgb(8, 108, 53);
+
+}
+
+.classA{
+    background-color: beige;
+    color: rgb(56, 54, 54);
+    display: block;
+    margin: 10px;
+}
+
+div a {
+    text-decoration: none;
+    border: 1px solid gray;
+    display: block;
+    background-color: bisque;
+    width: fit-content;
+    color: black;    
+}
