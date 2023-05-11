@@ -8,7 +8,10 @@ body{
     color: rgb(78, 78, 209);
 }
 
-
+div {
+  color: brown;
+  font-size: 80pt;
+}
 
 button{
    background-color: rgb(8, 201, 156);
